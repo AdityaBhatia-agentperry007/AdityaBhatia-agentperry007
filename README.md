@@ -9,215 +9,247 @@
 ```
 <div align="center"><sub>B H A T I A</sub></div>
 
----
+<br/>
 
 <div align="center">
 
-aditya bhatia · kanpur, india · class 12 · 17
+aditya bhatia &nbsp;·&nbsp; kanpur, india &nbsp;·&nbsp; class 12 &nbsp;·&nbsp; 17
 
-researcher @ IIT kanpur · co-founder @ paxus · builder
+researcher @ IIT kanpur &nbsp;·&nbsp; co-founder @ paxus &nbsp;·&nbsp; builder
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatia-a88529399)
-[![PaXus](https://img.shields.io/badge/paxus.in-FF6B35?style=flat-square)](https://paxus.in)
-[![Email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityabhatia1505@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatia-a88529399)
+[![paxus](https://img.shields.io/badge/paxus.in-FF6B35?style=flat-square)](https://paxus.in)
+[![email](https://img.shields.io/badge/email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:adityabhatia1505@gmail.com)
 
 </div>
 
 ---
 
-## okay but who tf is this
+## okay but who actually is this
 
-class 12 kid from kanpur. no IIT campus. no silicon valley mentor. no ecosystem.
+class 12 kid from kanpur. no IIT campus. no silicon valley connections. no ecosystem to plug into.
 
-just a laptop, a debugger open at 2am, and an unhealthy relationship with deadlines.
+just a laptop, whatever problem is in front of me, and a pretty bad habit of not sleeping.
 
-co-founded **paxus** — a funded tech company. raised $35k at 17 from emergent labs and hashed emergent. building **orca AI** inside it — task automation that works through pure intent, no app, no install. also co-founded **byteforge** — north india's largest independent student tech community. 4,500+ builders, official hack club partner, events at IITs.
+co-founded paxus, raised $35k at 17 from emergent labs and hashed emergent. building orca AI inside it right now. it's task automation that works through pure intent, no app, nothing to install. also co-founded byteforge with pavitra kushwaha. it's north india's largest independent student tech community. 4500 builders. official hack club partner. we run events at IITs. i'm still in school while all of this is happening.
 
-found and reported security vulnerabilities to both openai and anthropic. both paid. still in school when it happened.
+found real security vulnerabilities in both openai and anthropic. reported them properly. both paid out. i was 17 when it happened and still am.
 
-doing cryptography and MPC research at IIT kanpur under prof. adithya vadapalli. doing quantitative finance research with [moses lua](https://github.com/moseslua) — top 1% globally at IMC Prosperity 4 out of 22,000+ teams.
+doing cryptography and MPC research at IIT kanpur under prof. adithya vadapalli. also did quantitative finance research with moses lua and placed top 1% globally at IMC Prosperity 4 out of 22000 teams.
 
-still. in. school.
+i don't know how to explain this without it sounding like a list so i'll just say: it's a lot, it's all real, and none of it happened in a tier-1 city.
 
-> *"built all of it from kanpur."*
+> "built all of it from kanpur."
 
 ---
 
-## the receipts 🧾 (no cap, all real)
+## the receipts (no cap, all real)
 
-| thing | context | the unhinged part |
+| thing | context | the part that surprises people |
 |---|---|---|
-| 🚀 **co-founder @ paxus** | funded multi-venture tech company | raised $35k at 17. emergent labs + hashed emergent |
-| 🤖 **orca AI** | intent-first task automation system | no app. no install. pure intent. final stages |
-| 👁️ **argus** | real-time AI surveillance + motion intelligence | a security system that actually thinks |
-| 🔬 **researcher @ IIT kanpur** | cryptography, MPC, network security | under prof. adithya vadapalli. 6-8 months sustained |
-| 🔐 **bug bounty — openai** | responsibly disclosed critical vuln | openai paid. at 17 |
-| 🔐 **bug bounty — anthropic** | responsibly disclosed critical vuln | anthropic paid too. same year |
-| 📈 **IMC Prosperity 4** | quant trading competition — 22,000+ teams | top 1% globally. with moses lua |
-| 💹 **PhysicsNet trading** | physics-informed deep learning for BTC | SPDE fluid dynamics + RNN→GNN→TFT. live on 5 venues |
-| ⚡ **co-founder @ byteforge** | north india's largest student tech community | 4,500+ builders. hack club partner |
-| 🏥 **lumenseed AI** | AI healthcare diagnostics via LLMs | medibot @ techfest IIT bombay. near complete |
-| 📊 **neuralbhasha** | hindi NLP benchmark — 8 models, 4 tasks | most comprehensive hindi LLM benchmark to date |
-| 🦈 **shark tank india** | invited to appear | upcoming. still processing this one |
-| 🏆 **50+ competition wins** | school → city → state → national → international | stopped counting. ran out of wall space |
-| 🥉 **NASO science olympiad** | national level | bronze medal |
-| 🥇 **masters union** | national competition | 1st place nationally |
-| 📐 **qualified RMO** | gateway to IMO | maths is the foundation of everything |
-| 🌍 **TYE global** | qualified | also applied for thiel fellowship |
-| 🎓 **Y combinator startup school** | selected + completed | officially not just another tier-2 kid |
-| 🎪 **techfest IIT bombay** | invited twice | grade 9. grade 11. most people don't get one invite |
-| 🤝 **CTO @ IIT kanpur AI hardware startup** | stealth, funded ₹1.5cr | AI hardware. changes how inference works |
-| 📐 **96% in class 10 boards** | CBSE | the grind is consistent |
+| co-founder @ paxus | funded multi-venture tech company | $35k raised at 17. emergent labs and hashed emergent |
+| orca AI | intent-first task automation | no app. no install. you think it, it happens. final stages now |
+| argus | real-time AI surveillance system | motion intelligence, autonomous alerts, runs locally |
+| researcher @ IIT kanpur | cryptography, MPC, network security | under prof. adithya vadapalli. been going 6-8 months |
+| bug bounty at openai | reported a critical vulnerability | they paid out. i was 17 |
+| bug bounty at anthropic | reported a critical vulnerability | they paid too. same year |
+| IMC Prosperity 4 | quant trading competition, 22000 teams globally | top 1%. with moses lua |
+| PhysicsNet trading | physics-informed deep learning for BTC prediction | SPDE fluid dynamics plus RNN to GNN to TFT. live on 5 venues |
+| co-founder @ byteforge | north india's largest student tech community | 4500 builders. hack club partner. events at IITs |
+| lumenseed AI | AI healthcare diagnostics | built for techfest IIT bombay medibot. near complete |
+| neuralbhasha / D2AR | hindi NLP benchmark, 8 models, 4 tasks | most comprehensive hindi LLM benchmark that exists right now |
+| shark tank india | invited to appear | upcoming. genuinely still processing this |
+| 50+ competition wins | school to city to state to national to international | robotics, maths, coding, design, science |
+| NASO science olympiad | national level | bronze medal |
+| masters union | national competition | 1st place |
+| qualified RMO | the exam before IMO | maths is what everything else is built on |
+| TYE global | qualified | also applied for thiel fellowship |
+| Y combinator startup school | selected and completed | not just another tier-2 city kid apparently |
+| techfest IIT bombay | invited twice | grade 9 and grade 11. most people don't get one invite |
+| CTO at IIT kanpur AI hardware startup | stealth mode, funded at 1.5cr | AI hardware. changes how inference actually works |
+| 96% in class 10 boards | CBSE | the academic side is not getting left behind |
 
 ---
 
-## what i'm actually shipping 🔧
+## what i'm actually building right now
 
-### 🤖 orca AI — tasks via pure intent
-> no app. no install. no friction. you think it, orca does it.
+### orca AI
 
-india has 500M+ mobile users. most of them don't want another app. orca meets them exactly where they are — through intent. the backend figures out the rest. final integration stage now.
+no app. no interface to learn. no install process. you describe what you want done and the system figures out the rest.
 
-`TypeScript` `Node.js` `LLMs` `intent parsing` `automation pipelines`
-
----
-
-### 👁️ argus — the environment that watches back
-> real-time AI surveillance. motion intelligence. autonomous alert pipelines.
-
-not a camera. not a CCTV system. a thinking layer on top of your physical space. argus detects, classifies, decides, and alerts — locally, in real time, privacy-first. built from scratch.
-
-`Python` `OpenCV` `FFmpeg` `real-time video` `alert pipelines`
-
----
-
-### 🏥 lumenseed AI — healthcare that actually explains itself
-> LLM-powered medical report interpretation for people who aren't doctors.
-
-built for techfest IIT bombay's medibot challenge. lumenseed reads medical reports and turns them into language a patient can understand. diagnostic intelligence, privacy-first. near complete.
-
-`TypeScript` `Next.js` `LangChain` `Gemini` `LLMs`
-
----
-
-### 📈 quantumedge — quant research with moses lua
-> top 1% globally. IMC Prosperity 4. 22,000+ teams.
-
-three research threads: ETF cross-product signal analysis, options execution + alpha generation, and market-making engineering. rolling z-score, OU half-life, GARCH volatility, Johansen cointegration. options Greeks engine with Black-Scholes IV inversion and smile fitting. 3,000+ LOC, unit-tested. portal-slice progression: +15K → +155K ceiling.
-
-`Python` `Rust` `PyTorch` `Hyperopt` `NumPy` `options analytics`
-
----
-
-### 💹 physicsnet — bitcoin trading via fluid dynamics
-> your GPU is modelling a market as a non-Newtonian fluid. yes, really.
-
-physics-informed deep learning pipeline: SPDE Navier-Stokes fluid dynamics + RNN→GNN→TFT. 250+ node heterogeneous graph across Binance/Coinbase/Kraken/Deribit/CME. ~100μs p99 inference via Rust EnKF → ONNX → TensorRT. deployed live on 5 venues. built with moses lua.
-
-`Python` `Rust` `PyTorch` `TensorRT` `ONNX` `Kafka` `TimescaleDB`
-
----
-
-### ⚡ byteforge — the ecosystem we built because one didn't exist
-> north india's largest independent student tech community. 4,500+ builders.
-
-everyone told us kanpur wasn't on the map. so we put it there. events at IITs, workshops, hackathons, a platform. official hack club partner. co-founded with pavitra kushwaha.
-
-`TypeScript` `Next.js` `community` `events` `hack club`
-
----
-
-## the full project shelf 📦
+india has 500 million mobile users. most of them are not going to download another app for another specific thing. orca meets them where they already are, which is just existing and having intent. this is what task automation was always supposed to look like. currently in final integration.
 
 ```
-🤖  orca AI              →  intent-first task automation. no app. pure intent.
-👁️  argus                →  real-time AI surveillance + motion detection + alert pipelines
-🏥  lumenseed AI         →  LLM healthcare diagnostics + report interpretation (IIT bombay finalist)
-📈  quantumedge          →  ETF signal analysis, options execution, MM engineering — top 1% IMC Prosperity 4
-💹  physicsnet-trading   →  physics-informed BTC prediction. fluid dynamics + RNN→GNN→TFT. 5 venues live
-📊  neuralbhasha (D2AR)  →  hindi NLP benchmark. 8 SOTA models. IIT kanpur research
-🔐  cryptovault-MPC      →  garbled circuits + oblivious transfer in the browser. IIT kanpur
-🧠  hyperion-RAG         →  high-density retrieval architecture. semantic compression for LLMs
-🏋️  clusterorch-gym      →  RL benchmark for diagnosing distributed GPU training failures
-💰  alphacore            →  systematic equity strategy. 20% CAGR live. multi-factor screening
-🔬  neuralarb            →  HFT microstructure research. L2/L3 depth vanishing. queue-priority fill models
-🌍  B2Bharat             →  B2B marketplace. indian manufacturers + retailers. live and running
-⚡  byteforge            →  north india's largest student tech community platform
-🚀  paxus                →  multi-venture tech company portfolio
-🔮  distill              →  video knowledge extraction → structured intelligence
-👻  phantom              →  autonomous AI content publishing at scale
+TypeScript  Node.js  LLMs  automation pipelines
 ```
 
 ---
 
-## stack (the real one) ⚡
+### argus
+
+started building this because i wanted a surveillance system that wasn't just recording footage nobody watches.
+
+argus processes video in real time, detects motion, classifies what it's seeing, and triggers the right alerts automatically. it runs locally. privacy first. you're not uploading anything anywhere. it's a thinking layer on top of your physical space, not a cloud-connected camera.
 
 ```
-Languages    →  Python · TypeScript · JavaScript · Rust · Java · Kotlin · Bash · MATLAB
-AI/ML        →  PyTorch · TensorRT · HuggingFace · LangChain · LLMs · RL · deep learning
-Quant        →  NumPy · pandas · Polars · Hyperopt · GARCH · Johansen · Black-Scholes · IV
-Crypto       →  garbled circuits · MPC protocols · oblivious transfer · network security
-Vision       →  OpenCV · FFmpeg · real-time video processing · motion detection
-Web          →  React · Next.js · Node.js · Firebase · MongoDB · MySQL · Tailwind
-Infra        →  Kafka · TimescaleDB · Docker · FastAPI · Redis · PostgreSQL · ONNX
-Mobile       →  Kotlin · Flutter · Android native
-Design       →  Photoshop · Illustrator · Blender · Premiere Pro · After Effects · DaVinci
-Fueled by    →  deadlines · curiosity · the audacity of being from kanpur
+Python  OpenCV  FFmpeg  real-time video processing  alert pipelines
 ```
 
 ---
 
-## the kanpur thing 🗺️
+### lumenseed AI
 
-everyone said the ecosystem wasn't here. no VCs, no coworking spaces, no senior builders to shadow.
+built for the medibot challenge at techfest IIT bombay.
 
-so i built the ecosystem.
+the problem is simple. medical reports are written for doctors, not patients. lumenseed reads the report and produces something a normal person can actually understand. it handles the diagnostic interpretation, generates patient-friendly summaries, answers follow-up queries. LLM-powered, privacy-first architecture. near complete now.
 
-paxus is what happens when you fund your own vision at 17. byteforge is what happens when you stop waiting for permission. IIT kanpur research is what happens when you walk into a lab and ask to work on something real. bug bounties from openai and anthropic are what happens when you look at things differently. top 1% at the world's largest quant competition is what happens when you take the problem seriously.
-
-kanpur isn't a disadvantage. it's the origin story.
-
----
-
-## currently obsessing over 🌙
-
-**cryptography + multi-party computation** — garbled circuits, oblivious transfer, and the math underneath everything secure. research that nobody else at school level is doing.
-
-**AI task automation at the intent layer** — not chatbots. not assistants. actual automation that closes the loop entirely.
-
-**quantitative microstructure** — what happens in the order book at the millisecond level, and how fluid dynamics can model it better than any transformer.
+```
+TypeScript  Next.js  LangChain  Gemini  LLMs
+```
 
 ---
 
-## random lore 🎲
+### quantumedge (with moses lua)
 
-- disclosed vulns to openai and anthropic before finishing high school. both paid.
-- raised $35k in startup funding at 17. first pitch was terrifying. second was fine.
-- placed top 1% out of 22,000+ teams in a global quant competition. still in school.
-- byteforge started as an idea. now it has 4,500 members across north india.
-- invited to shark tank india. still processing that one.
-- qualified for RMO. 96% in class 10. the grind is real.
-- invited to techfest IIT bombay twice — grade 9 and grade 11.
-- agent perry is the greatest character ever created. non-negotiable.
+three research tracks built during IMC Prosperity 4. the world's largest algorithmic trading competition. 22000 teams. top 1% globally.
+
+first track was ETF cross-product signal analysis. 1.5 million rows of market data, GARCH volatility forecasting, Johansen cointegration tests for multi-product ETF arbitrage detection.
+
+second track was options execution and alpha generation. full options analytics stack, 3000 lines of code, Black-Scholes IV inversion, Greeks engine, 10 strategy variants. portal-slice progression went from plus 15k to plus 155k ceiling.
+
+third track was market making and execution engineering. split-lane controller, 200 draft strategies optimised with Hyperopt TPE, depth-vanishing microstructure signals consistent across 6 out of 6 days.
+
+```
+Python  Rust  PyTorch  NumPy  Hyperopt TPE  options analytics
+```
 
 ---
 
-## let's link up
+### physicsnet (with moses lua)
 
-if you're building something real, especially from a place nobody expects — hit me up. if you're a researcher, founder, or VC who thinks the next big thing will come from somewhere unexpected — let's talk.
+the idea is to model the bitcoin order book as a non-Newtonian fluid and use physics equations to predict price movement.
 
-[linkedin](https://www.linkedin.com/in/aditya-bhatia-a88529399) · [paxus](https://paxus.in) · [email](mailto:adityabhatia1505@gmail.com) · [work](mailto:adi@paxus.in)
+the pipeline is a 3-stage hybrid: Navier-Stokes SPDE fluid dynamics feeding an RNN, which feeds a PyTorch Geometric GNN, which feeds a TensorRT TFT. 250 node heterogeneous graph capturing cross-venue data from Binance, Coinbase, Kraken, Deribit, and CME simultaneously. inference at 100 microseconds p99. deployed live across 5 venues.
+
+```
+Python  Rust  PyTorch  TensorRT  ONNX  Kafka  TimescaleDB  Docker
+```
+
+---
+
+### byteforge
+
+kanpur didn't have a student tech ecosystem so we built one.
+
+byteforge is what happens when two people decide to stop waiting for someone else to create the infrastructure. events at IITs, workshops, hackathons, a platform that actually works. 4500 builders across north india. official hack club partner. co-founded with pavitra kushwaha. it's the biggest independent student tech community in north india right now.
+
+```
+TypeScript  Next.js  community ops  hack club
+```
+
+---
+
+## everything i've built
+
+```
+orca AI              task automation via pure intent. no app. no friction
+argus                real-time AI surveillance. motion intelligence. local processing
+lumenseed AI         LLM-powered healthcare diagnostics. IIT bombay medibot
+quantumedge          ETF signals, options execution, market making. top 1% IMC Prosperity 4
+physicsnet-trading   physics-informed BTC prediction. fluid dynamics plus RNN to GNN to TFT
+neuralbhasha         hindi NLP benchmark. 8 models. IIT kanpur research
+cryptovault-MPC      garbled circuits and oblivious transfer in the browser. MPC research
+hyperion-RAG         high-density retrieval for LLMs with semantic compression
+clusterorch-gym      RL benchmark for diagnosing distributed GPU training failures
+alphacore            systematic equity strategy. 20% CAGR live system
+neuralarb            HFT microstructure research. L2/L3 depth vanishing signals
+B2Bharat             B2B marketplace for indian manufacturers and retailers. live
+byteforge            north india's largest student tech community platform
+paxus                multi-venture tech company portfolio
+distill              video knowledge extraction engine
+phantom              autonomous AI content publishing infrastructure
+```
+
+---
+
+## actual stack
+
+```
+languages     Python  TypeScript  JavaScript  Rust  Java  Kotlin  Bash  MATLAB
+AI and ML     PyTorch  TensorRT  HuggingFace  LangChain  LLMs  RL  deep learning
+quant         NumPy  pandas  Polars  Hyperopt  GARCH  Johansen  Black-Scholes
+cryptography  garbled circuits  MPC protocols  oblivious transfer  network security
+vision        OpenCV  FFmpeg  real-time video  motion detection
+web           React  Next.js  Node.js  Firebase  MongoDB  MySQL  Tailwind
+infra         Kafka  TimescaleDB  Docker  FastAPI  Redis  PostgreSQL  ONNX  TensorRT
+mobile        Kotlin  Flutter  Android native
+design        Photoshop  Illustrator  Blender  Premiere Pro  After Effects  DaVinci
+```
+
+---
+
+## the kanpur thing
+
+everyone said the ecosystem wasn't here. no VCs, no coworking spaces, no senior builders around to learn from.
+
+fine. so i built the ecosystem.
+
+paxus exists because i decided not to wait for funding to fall from the sky. byteforge exists because the community didn't exist and someone had to make it. the IIT kanpur research happened because i walked into a lab and asked if i could work on something real and they said yes. the openai and anthropic bug bounties happened because i look at software differently and decided to do something useful with that. the quant research happened because moses and i took the problem seriously.
+
+none of this required being from delhi or bangalore. it required not waiting around.
+
+kanpur is the origin story. not the limitation.
+
+---
+
+## what i'm obsessing over right now
+
+multi-party computation. garbled circuits, oblivious transfer, the actual math underneath everything that's supposed to be secure. working on it at IIT kanpur. nobody my age is doing this.
+
+task automation at the intent layer. not a chatbot that helps you draft emails. actual automation that closes the loop entirely, from intent to done, with no manual steps in between.
+
+market microstructure. what's happening in the order book at the millisecond level and whether you can model it better using physics than using transformers. the answer so far seems to be yes.
+
+---
+
+## some things people find surprising
+
+reported vulns to openai and anthropic before finishing high school. both paid.
+
+raised 35k in startup funding at 17. the first pitch meeting was genuinely stressful. the second one was fine.
+
+placed top 1% out of 22000 teams in the world's largest quant competition. still in school when it happened.
+
+byteforge started as a conversation between two people. it has 4500 members now.
+
+invited to appear on shark tank india. still sitting with that information.
+
+96% in class 10 boards. the academic side is not being sacrificed for any of this.
+
+invited to techfest IIT bombay twice. once in grade 9, once in grade 11.
+
+agent perry is the greatest character in television history and this is not a debate i'm willing to have.
+
+---
+
+## talk to me
+
+if you're building something real, especially from somewhere people don't expect it to come from, reach out.
+
+if you're a researcher, a founder, or just someone who thinks the interesting stuff happens outside the obvious places, same thing.
+
+[linkedin](https://www.linkedin.com/in/aditya-bhatia-a88529399) &nbsp; [paxus](https://paxus.in) &nbsp; [email](mailto:adityabhatia1505@gmail.com) &nbsp; [work email](mailto:adi@paxus.in)
 
 ---
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdityaBhatia-agentperry007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![stats](https://github-readme-stats.vercel.app/api?username=AdityaBhatia-agentperry007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatia-agentperry007&layout=compact&theme=tokyonight&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaBhatia-agentperry007&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=AdityaBhatia-agentperry007&theme=tokyonight&hide_border=true)
+![streak](https://streak-stats.demolab.com/?user=AdityaBhatia-agentperry007&theme=tokyonight&hide_border=true)
 
-*built from kanpur. no shortcuts. no excuses. just shipped. 🚢*
+built from kanpur. no shortcuts. no excuses.
 
 </div>
