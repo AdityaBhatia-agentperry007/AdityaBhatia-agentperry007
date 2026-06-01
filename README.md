@@ -13,9 +13,7 @@
 
 <div align="center">
 
-aditya bhatia &nbsp;·&nbsp; kanpur, india &nbsp;·&nbsp; class 12 &nbsp;·&nbsp; 17
-
-researcher @ IIT kanpur &nbsp;·&nbsp; co-founder @ paxus &nbsp;·&nbsp; builder
+aditya bhatia &nbsp;·&nbsp; kanpur &nbsp;·&nbsp; 17 &nbsp;·&nbsp; class 12
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-bhatia-a88529399)
 [![paxus](https://img.shields.io/badge/paxus.in-FF6B35?style=flat-square)](https://paxus.in)
@@ -25,37 +23,35 @@ researcher @ IIT kanpur &nbsp;·&nbsp; co-founder @ paxus &nbsp;·&nbsp; builder
 
 ---
 
-## okay but who actually is this
+## okay but who tf is this
 
-i'm 17, from kanpur. still in class 12.
+17, from kanpur, still in class 12 somehow, co-founded paxus at 17 and we raised 35k from emergent labs and hashed emergent, found real vulnerabilities in openai and anthropic and both paid out, placed top 1% globally at IMC Prosperity 4 out of 22000 teams, doing MPC and cryptography research at IIT kanpur under prof. adithya vadapalli, co-founded byteforge with pavitra which is now 4500 builders across north india, also CTO of a stealth AI hardware startup at IIT kanpur funded at 1.5cr
 
-i co-founded paxus and we raised $35k from emergent labs and hashed emergent. i found security vulnerabilities in openai and anthropic, reported them properly, both paid out. placed top 1% globally at IMC Prosperity 4 out of 22000 teams. i do cryptography and MPC research at IIT kanpur under prof. adithya vadapalli. co-founded byteforge with pavitra, it's now north india's largest independent student tech community with 4500 builders.
-
-all of this happened from kanpur while i was in school. i don't really know how else to say it.
+honestly a lot happened and i'm still not sure how
 
 ---
 
 ## the receipts
 
-| thing | context | the part that surprises people |
+| thing | context | the unhinged part |
 |---|---|---|
-| co-founder @ paxus | funded multi-venture tech company | $35k raised at 17. emergent labs and hashed emergent |
-| orca AI | task automation via pure intent | no app. no install. you say it, it happens |
-| argus | personal palantir gotham, built from open source | live tracking, full intelligence layer, runs entirely on my hardware. it actually works |
-| researcher @ IIT kanpur | cryptography, MPC, network security | under prof. adithya vadapalli |
-| bug bounty at openai | reported a real vulnerability | they paid. i was 17 |
-| bug bounty at anthropic | reported a real vulnerability | they paid too. same year |
-| IMC Prosperity 4 | world's largest quant trading competition, 22000 teams | top 1% globally |
-| co-founder @ byteforge | north india's largest student tech community | 4500 builders. hack club. events at IITs |
-| lumenseed AI | AI healthcare diagnostics | built for techfest IIT bombay medibot |
-| neuralbhasha / D2AR | hindi NLP benchmark, 8 models, 4 tasks | most thorough hindi LLM benchmark out there |
-| shark tank india | invited to appear | upcoming |
-| 50+ competition wins | school to national to international | robotics, maths, coding, design, science |
-| qualified RMO | the exam before IMO | maths is what everything else is built on |
+| paxus | funded multi-venture company, co-founded at 17 | raised 35k from emergent labs and hashed emergent |
+| orca AI | task automation, no app, no interface | you think it, it happens, almost done |
+| argus | personal palantir gotham from open source | live tracks everything, multiple feeds, runs on my hardware, actually works |
+| IIT kanpur research | cryptography, MPC, network security | under prof. adithya vadapalli, garbled circuits and oblivious transfer |
+| openai bug bounty | found a real vulnerability | they paid, i was 17 |
+| anthropic bug bounty | found another one | they paid too, same year |
+| IMC Prosperity 4 | world's largest quant competition, 22000 teams | top 1% globally |
+| byteforge | north india's largest student tech community | 4500 builders, hack club partner, events at IITs |
+| lumenseed AI | AI healthcare diagnostics | built for techfest IIT bombay medibot, near complete |
+| neuralbhasha / D2AR | hindi NLP benchmark, 8 models, 4 tasks | most thorough hindi LLM benchmark that exists |
+| shark tank india | got invited | upcoming |
+| 50+ competition wins | school → national → international | robotics, maths, coding, design, science |
+| RMO qualified | the exam before IMO | maths is what everything else runs on |
 | Y combinator startup school | selected and completed | yeah |
 | techfest IIT bombay | invited twice | grade 9 and grade 11 |
-| CTO @ IIT kanpur AI hardware startup | stealth, funded at 1.5cr | changes how inference actually works |
-| 96% in class 10 boards | CBSE | not letting the academics slip either |
+| CTO @ IIT kanpur AI hardware startup | stealth, funded at 1.5cr | changes how inference works |
+| class 10 boards | CBSE | 96%, not letting academics slip |
 
 ---
 
@@ -63,13 +59,13 @@ all of this happened from kanpur while i was in school. i don't really know how 
 
 ### orca AI
 
-i've been thinking about this problem for a long time. every time you want to get something done on your phone, there's this whole process: figure out which app handles it, open it, navigate whatever interface that app decided to build, do the thing. that's a lot of steps for something that should just happen.
+the problem with apps is there are too many of them and every single one is an extra step between wanting something done and it actually happening, you have to know which app handles the thing, open it, navigate whatever interface they built, do the thing, close it, and that's insane when it should just be zero steps
 
-i built orca to cut all of that out. you say what you want, in plain language, and it figures out the rest and does it. there's no app to open, nothing to install, no interface to learn. it works through what you already use.
+so orca is the zero steps version, you say what you want in plain language and it just does it, no app to find, no interface to learn, nothing to install, works through what you already use
 
-i also think about the 500 million people in india who are on mobile but aren't downloading one more app for one more thing. orca doesn't ask them to. you just describe what you need and it handles it.
+india has 500 million people on mobile who are genuinely not downloading one more app for one more specific thing, orca doesn't ask them to, you just describe what you need and it handles it
 
-it's almost done. it's going to change how people think about getting things done on their phones.
+almost done and it's going to change how people think about getting things done on a phone
 
 ```
 TypeScript  Node.js  LLMs  automation pipelines
@@ -79,25 +75,25 @@ TypeScript  Node.js  LLMs  automation pipelines
 
 ### argus
 
-palantir gotham costs millions and is locked behind government contracts. i wanted what it does, so i built my own version from open source.
+basically my own version of palantir gotham, built entirely from open source
 
-argus is a live intelligence and surveillance platform. it doesn't just record, it tracks. multiple feeds at once, in real time. it understands what it's seeing, correlates it, and gives me a live picture of everything happening across every camera simultaneously. motion, objects, people, events, all processed and surfaced as it happens, not after. the whole thing runs on my own hardware. no cloud, no third party, nothing leaving the network.
+argus tracks everything live, multiple camera feeds at once, understands what it's seeing across all of them, correlates it, and surfaces what matters as it happens not after, so it's not just recording footage like every other system, it's actually watching and thinking, motion, objects, events, all of it processed in real time and it runs completely on my own hardware so nothing goes anywhere else, no cloud, no third party, no subscription
 
-palantir built theirs with hundreds of engineers and government money. i built mine with python and open source tools. it works right now. i can track anything, live.
+palantir built theirs with hundreds of engineers and government money, i built mine to do the same thing and it actually works right now
 
 ```
-Python  OpenCV  FFmpeg  real-time multi-feed processing  intelligence layer  object tracking
+Python  OpenCV  FFmpeg  multi-feed live tracking  intelligence layer  object detection
 ```
 
 ---
 
 ### lumenseed AI
 
-this came from the medibot problem statement at techfest IIT bombay. the problem it pointed at is real: people get medical reports back and they can't read them. doctors write for other doctors. you're the patient, it's your body, and you have no idea what half the words on the page mean.
+the medibot problem at techfest IIT bombay was pointing at something real, people get medical reports back that are written entirely for doctors and they can't read them, it's their own body being described and they have no idea what half of it means, so they either google things and panic or just don't understand and hope for the best
 
-i built lumenseed to fix that. it reads the report and explains it in plain language, tells you what the numbers mean, what to watch for, what questions to ask your doctor. you can ask follow-up questions and it answers them. no extra appointment needed, no waiting, just actually being able to understand your own health.
+lumenseed reads the report and explains it in plain language, what the numbers mean, what to watch for, what to ask your doctor, you can ask follow-up questions and it answers them, no extra appointment, no cost, just actually knowing what's going on with your health
 
-it already works on real reports. nearly done.
+already works on real reports, near complete
 
 ```
 TypeScript  Next.js  LangChain  Gemini  LLMs
@@ -107,11 +103,11 @@ TypeScript  Next.js  LangChain  Gemini  LLMs
 
 ### quantumedge
 
-IMC Prosperity 4. world's largest algorithmic trading competition, 22000 teams from universities and quant firms globally.
+IMC Prosperity 4, world's largest algorithmic trading competition, 22000 teams from top universities and quant funds globally, most of those teams have PhDs and years of market experience
 
-i built three separate research tracks. ETF cross-product signal analysis across 1.5 million rows of market data, GARCH volatility forecasting, Johansen cointegration for arbitrage detection. a full options analytics stack at 3000 lines, Black-Scholes IV inversion, full Greeks engine, 10 strategy variants. market making with 200 strategies optimised through Hyperopt TPE, and depth-vanishing microstructure signals that stayed consistent across all 6 competition days.
+i built three separate research tracks, ETF cross-product signal analysis across 1.5 million rows of market data with GARCH volatility forecasting and Johansen cointegration for arbitrage detection, a full options analytics stack at 3000 lines with Black-Scholes IV inversion, full Greeks engine, 10 strategy variants, and market making with 200 strategies optimised through Hyperopt TPE with depth-vanishing microstructure signals that held across all 6 competition days
 
-we finished top 1% globally. i had no prior quant experience when i started.
+we came top 1% globally and i had no prior quant experience when i started this
 
 ```
 Python  Rust  PyTorch  NumPy  Hyperopt TPE  options analytics
@@ -121,11 +117,11 @@ Python  Rust  PyTorch  NumPy  Hyperopt TPE  options analytics
 
 ### cryptovault-MPC
 
-most people who build things on top of cryptography don't understand the math underneath it. they use the libraries, trust the abstractions, and don't go further. i wanted to actually understand what's there.
+most people who build products on top of cryptography genuinely don't understand the math that's actually underneath it, they use the libraries and trust the abstractions and stop there, i wanted to understand what's actually there
 
-i'm doing research at IIT kanpur on garbled circuits and oblivious transfer. these are the protocols that let two parties compute something together without either one ever seeing the other's input. it's what privacy actually looks like when you go past the surface.
+so i'm doing research at IIT kanpur on garbled circuits and oblivious transfer, which are the protocols that let two parties compute something together without either of them ever seeing the other's input, it's what real privacy looks like when you go past the surface level stuff
 
-it's genuinely hard and very few people touch it. that's part of why i'm doing it.
+it's hard and barely anyone touches it, that's kind of why i'm doing it
 
 ```
 Python  JavaScript  garbled circuits  MPC protocols  oblivious transfer  network security
@@ -136,33 +132,33 @@ Python  JavaScript  garbled circuits  MPC protocols  oblivious transfer  network
 ## everything i've built
 
 ```
-orca AI              task automation via pure intent. no app. no friction
-argus                personal palantir gotham from open source. live tracking, full intelligence layer
-lumenseed AI         LLM-powered healthcare diagnostics. IIT bombay medibot
-quantumedge          ETF signals, options execution, market making. top 1% globally
-cryptovault-MPC      garbled circuits and oblivious transfer. MPC research
+orca AI              zero-step task automation via pure intent
+argus                personal palantir gotham, open source, live intelligence, actually works
+lumenseed AI         medical reports explained in plain language, IIT bombay medibot
+quantumedge          ETF signals, options execution, market making, top 1% globally
+cryptovault-MPC      garbled circuits and oblivious transfer, MPC research IIT kanpur
 hyperion-RAG         high-density retrieval for LLMs with semantic compression
-neuralbhasha         hindi NLP benchmark. 8 models. IIT kanpur research
-physicsnet-trading   physics-informed BTC prediction. fluid dynamics plus deep learning
-B2Bharat             B2B marketplace for indian manufacturers and retailers
-byteforge            north india's largest student tech community platform
-paxus                multi-venture tech company portfolio
-distill              video knowledge extraction engine
-phantom              autonomous AI content publishing infrastructure
+neuralbhasha         hindi NLP benchmark, 8 models, IIT kanpur
+physicsnet-trading   physics-informed BTC prediction, fluid dynamics + deep learning
+B2Bharat             B2B marketplace for indian manufacturers
+byteforge            north india's largest student tech community
+paxus                multi-venture funded tech company
+distill              video knowledge extraction
+phantom              autonomous AI content publishing
 ```
 
 ---
 
-## actual stack
+## stack
 
 ```
 languages     Python  TypeScript  JavaScript  Rust  Java  Kotlin  Bash  MATLAB
-AI and ML     PyTorch  TensorRT  HuggingFace  LangChain  LLMs  RL  deep learning
+AI / ML       PyTorch  TensorRT  HuggingFace  LangChain  LLMs  RL  deep learning
 quant         NumPy  pandas  Polars  Hyperopt  GARCH  Johansen  Black-Scholes
-cryptography  garbled circuits  MPC protocols  oblivious transfer  network security
-vision        OpenCV  FFmpeg  real-time video  motion detection
+crypto        garbled circuits  MPC  oblivious transfer  network security
+vision        OpenCV  FFmpeg  real-time video  object detection  tracking
 web           React  Next.js  Node.js  Firebase  MongoDB  MySQL  Tailwind
-infra         Kafka  TimescaleDB  Docker  FastAPI  Redis  PostgreSQL  ONNX  TensorRT
+infra         Kafka  Docker  FastAPI  Redis  PostgreSQL  ONNX  TensorRT
 mobile        Kotlin  Flutter  Android native
 design        Photoshop  Illustrator  Blender  Premiere Pro  After Effects  DaVinci
 ```
@@ -171,17 +167,17 @@ design        Photoshop  Illustrator  Blender  Premiere Pro  After Effects  DaVi
 
 ## the kanpur thing
 
-i'm from kanpur. there's no startup ecosystem here. no VCs, no coworking spaces, no senior builders around to learn from. nobody hands you anything.
+there's no startup ecosystem here, no VCs, no coworking spaces, no senior builders to learn from, nobody hands you anything, and i think people use that as a reason not to do things
 
-byteforge exists because that community wasn't here and pavitra and i decided to build it ourselves. paxus exists because i wasn't going to wait for permission to start a company. the IIT kanpur research exists because i walked into a lab and asked if i could work on something real. the bug bounties exist because i notice things in software and decided to be useful about it instead of just noticing.
+byteforge exists because the community wasn't here so pavitra and i built it, paxus exists because i wasn't waiting for permission, the IIT kanpur research exists because i walked into a lab and asked, the bug bounties exist because i notice things in software and decided to actually do something with that
 
-i don't think where you're from is the point. i think waiting for the right conditions is what actually stops people. kanpur didn't stop me.
+where you're from isn't the point, waiting for conditions to be right is what actually stops people, kanpur didn't stop me
 
 ---
 
 ## talk to me
 
-if you're building something from somewhere nobody expects it, or doing research, or just want to talk about something real, reach out.
+building something real, doing research, or just want to talk about something worth talking about, reach out
 
 [linkedin](https://www.linkedin.com/in/aditya-bhatia-a88529399) &nbsp;·&nbsp; [paxus](https://paxus.in) &nbsp;·&nbsp; [email](mailto:adityabhatia1505@gmail.com) &nbsp;·&nbsp; [work](mailto:adi@paxus.in)
 
@@ -198,4 +194,3 @@ if you're building something from somewhere nobody expects it, or doing research
 built from kanpur. no shortcuts. no excuses.
 
 </div>
-
