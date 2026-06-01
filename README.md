@@ -23,7 +23,7 @@ aditya bhatia &nbsp;·&nbsp; kanpur &nbsp;·&nbsp; 17 &nbsp;·&nbsp; class 12
 
 ---
 
-## okay but who tf is this
+## okay but who am i ?
 
 17, from kanpur, still in class 12 somehow, co-founded paxus at 17 and we raised 35k from emergent labs and hashed emergent, found real vulnerabilities in openai and anthropic and both paid out, placed top 1% globally at IMC Prosperity 4 out of 22000 teams, doing MPC and cryptography research at IIT kanpur under prof. adithya vadapalli, co-founded byteforge with pavitra which is now 4500 builders across north india, also CTO of a stealth AI hardware startup at IIT kanpur funded at 1.5cr
 
