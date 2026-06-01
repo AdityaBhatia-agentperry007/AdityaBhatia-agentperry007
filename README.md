@@ -27,17 +27,13 @@ researcher @ IIT kanpur &nbsp;·&nbsp; co-founder @ paxus &nbsp;·&nbsp; builder
 
 ## okay but who actually is this
 
-class 12 kid from kanpur. no IIT campus. no silicon valley connections. no ecosystem to plug into.
+17. kanpur. class 12. no IIT campus, no silicon valley, no ecosystem that hands you anything.
 
-just a laptop, the problem in front of me, and a pretty bad habit of not sleeping.
+raised $35k at 17. reported security vulnerabilities to openai and anthropic, both paid out. top 1% at the world's largest quant competition out of 22000 teams. doing cryptography research at IIT kanpur. co-founded two companies. 50+ competition wins. still in school for all of it.
 
-co-founded paxus, raised $35k at 17 from emergent labs and hashed emergent. building orca AI inside it right now. task automation via pure intent. no app, nothing to install. co-founded byteforge with pavitra kushwaha. north india's largest independent student tech community. 4500 builders. official hack club partner. events at IITs. still in school while all of this is happening.
+i don't have a great way to say this without it sounding like a list. so that's the list. it's all real.
 
-found real security vulnerabilities in both openai and anthropic. reported them properly. both paid out. doing cryptography and MPC research at IIT kanpur under prof. adithya vadapalli. placed top 1% globally at IMC Prosperity 4 out of 22000 teams.
-
-it's a lot. it's all real. none of it happened in a tier-1 city.
-
-> "built all of it from kanpur."
+> built from kanpur. no shortcuts.
 
 ---
 
@@ -46,22 +42,22 @@ it's a lot. it's all real. none of it happened in a tier-1 city.
 | thing | context | the part that surprises people |
 |---|---|---|
 | co-founder @ paxus | funded multi-venture tech company | $35k raised at 17. emergent labs and hashed emergent |
-| orca AI | intent-first task automation | no app. no install. you think it, it happens. final stages |
-| argus | real-time AI surveillance system | motion intelligence, autonomous alerts, runs locally |
+| orca AI | intent-first task automation | no app. no install. you think it, it happens |
+| argus | real-time AI surveillance system | watches, understands, acts. runs locally. no cloud |
 | researcher @ IIT kanpur | cryptography, MPC, network security | under prof. adithya vadapalli |
-| bug bounty at openai | reported a critical vulnerability | they paid out. i was 17 |
-| bug bounty at anthropic | reported a critical vulnerability | they paid too. same year |
-| IMC Prosperity 4 | quant trading competition, 22000 teams globally | top 1% |
-| co-founder @ byteforge | north india's largest student tech community | 4500 builders. hack club partner. events at IITs |
+| bug bounty at openai | reported a real vulnerability | they paid. i was 17 |
+| bug bounty at anthropic | reported a real vulnerability | they paid too. same year |
+| IMC Prosperity 4 | world's largest quant competition, 22000 teams | top 1% globally |
+| co-founder @ byteforge | north india's largest student tech community | 4500 builders. hack club. events at IITs |
 | lumenseed AI | AI healthcare diagnostics | built for techfest IIT bombay medibot |
-| neuralbhasha / D2AR | hindi NLP benchmark, 8 models, 4 tasks | most comprehensive hindi LLM benchmark that exists |
+| neuralbhasha / D2AR | hindi NLP benchmark, 8 models, 4 tasks | most thorough hindi LLM benchmark out there |
 | shark tank india | invited to appear | upcoming |
 | 50+ competition wins | school to national to international | robotics, maths, coding, design, science |
 | qualified RMO | the exam before IMO | maths is what everything else is built on |
-| Y combinator startup school | selected and completed | not just another tier-2 city kid |
+| Y combinator startup school | selected and completed | yeah |
 | techfest IIT bombay | invited twice | grade 9 and grade 11 |
-| CTO @ IIT kanpur AI hardware startup | stealth mode, funded at 1.5cr | changes how inference actually works |
-| 96% in class 10 boards | CBSE | the academic side is not getting left behind |
+| CTO @ IIT kanpur AI hardware startup | stealth, funded at 1.5cr | changes how inference actually works |
+| 96% in class 10 boards | CBSE | the academic side is not getting sacrificed |
 
 ---
 
@@ -69,9 +65,15 @@ it's a lot. it's all real. none of it happened in a tier-1 city.
 
 ### orca AI
 
-no app. no interface to learn. no install process. you describe what you want done and the system figures out the rest.
+apps are the problem.
 
-india has 500 million mobile users. most of them are not going to download another app for another specific thing. orca meets them where they already are. this is what task automation was always supposed to look like. currently in final integration at paxus.
+not apps as a concept. apps as a distribution model for intent. you want something done. the current process is: remember which app handles that, open it, navigate whatever interface it decided to build, do the thing, close it. that's thirty steps where there should be zero.
+
+orca is the zero.
+
+you say what you want. it happens. no app to find, no workflow to memorise, no friction between thought and outcome. the system handles the rest entirely on its own. india has 500 million people on their phones and most of them are not downloading one more app for one more specific thing. orca doesn't ask them to. it works inside what they already use, the way they already communicate.
+
+this is what task automation should have been from day one. we're finishing it now.
 
 ```
 TypeScript  Node.js  LLMs  automation pipelines
@@ -81,9 +83,13 @@ TypeScript  Node.js  LLMs  automation pipelines
 
 ### argus
 
-started building this because i wanted a surveillance system that wasn't just recording footage nobody watches.
+every security camera ever made does exactly one thing. it records.
 
-argus processes video in real time, detects motion, classifies what it's seeing, and triggers the right alerts automatically. runs locally. you're not uploading anything anywhere. it's a thinking layer on top of your physical space, not a cloud-connected camera.
+that's it. someone breaks in, the camera watches it happen, captures it perfectly in 4K, and does absolutely nothing. you find out three days later when you check the footage. fifty years of surveillance technology and that's where we landed.
+
+argus actually watches. it understands what it's seeing. it knows when something is wrong and triggers the right response in real time, not after the fact. it runs on your hardware. nothing leaves your network. no subscription, no cloud upload, no third party sitting in the middle with access to your footage.
+
+it's not a smarter camera. it's a thinking layer on top of your physical space. the difference is everything.
 
 ```
 Python  OpenCV  FFmpeg  real-time video processing  alert pipelines
@@ -93,9 +99,13 @@ Python  OpenCV  FFmpeg  real-time video processing  alert pipelines
 
 ### lumenseed AI
 
-built for the medibot challenge at techfest IIT bombay.
+you get a medical report back. it's full of numbers, abbreviations, clinical language written entirely for the doctor. you are the patient. it's your body being described. you cannot read it.
 
-medical reports are written for doctors, not patients. lumenseed reads the report and produces something a normal person can actually understand. handles diagnostic interpretation, generates patient-friendly summaries, answers follow-up queries. LLM-powered, privacy-first architecture. near complete.
+this is not an edge case. this is a billion-person problem happening every day in every country. people walk out of labs and hospitals holding documents about their own health that might as well be in another language. they either google things and spiral, pay for another appointment to ask what it means, or just don't understand and hope for the best.
+
+lumenseed reads it for you. plain language. what it actually means, what to watch for, what questions to ask. anything you don't understand after the summary, you ask and it answers. no appointment. no waiting room. no extra cost. just access to understanding your own health.
+
+built for the medibot challenge at techfest IIT bombay. nearly complete. it already works.
 
 ```
 TypeScript  Next.js  LangChain  Gemini  LLMs
@@ -105,9 +115,13 @@ TypeScript  Next.js  LangChain  Gemini  LLMs
 
 ### quantumedge
 
-built during IMC Prosperity 4. world's largest algorithmic trading competition. 22000 teams. top 1% globally.
+IMC Prosperity 4. world's largest algorithmic trading competition. 22000 teams from top universities, quant funds, and research institutions globally. most of those teams have people with PhDs, decades of market experience, and institutional resources behind them.
 
-three research tracks: ETF cross-product signal analysis across 1.5 million rows of market data with GARCH volatility forecasting and Johansen cointegration tests. options execution stack, 3000 lines of code, Black-Scholes IV inversion, full Greeks engine, 10 strategy variants. market making with split-lane controller, 200 draft strategies optimised with Hyperopt TPE, depth-vanishing microstructure signals consistent across 6 out of 6 days.
+we built three separate research tracks from scratch.
+
+ETF cross-product signal analysis across 1.5 million rows of market data, GARCH volatility forecasting, Johansen cointegration for multi-product arbitrage detection. full options analytics stack at 3000 lines of code, Black-Scholes IV inversion, Greeks engine, 10 strategy variants, portal-slice progression from plus 15k to a 155k ceiling. market making with 200 draft strategies optimised through Hyperopt TPE and depth-vanishing microstructure signals that held up consistently across all 6 competition days.
+
+top 1% globally. 22000 teams.
 
 ```
 Python  Rust  PyTorch  NumPy  Hyperopt TPE  options analytics
@@ -117,9 +131,13 @@ Python  Rust  PyTorch  NumPy  Hyperopt TPE  options analytics
 
 ### cryptovault-MPC
 
-garbled circuits and oblivious transfer, in the browser.
+everything you trust online runs on cryptography. your bank, your messages, your identity, the entire internet. and almost nobody building products on top of it actually understands what's happening at the mathematical level underneath. they use the libraries. they trust the abstractions. they don't go further.
 
-coming out of the IIT kanpur cryptography research. the math underneath everything people call "secure" is rarely actually studied by the people doing the building. this project is about understanding the real guarantees, not the marketing ones. nobody my age is working on this.
+multi-party computation is what happens when you go further.
+
+garbled circuits. oblivious transfer. the protocols that let two parties compute something together without either of them ever seeing the other's input. this is what real privacy looks like before it gets turned into a marketing word. the math is hard, the guarantees are real, and the surface area for mistakes is enormous if you don't actually understand what you're doing.
+
+i'm building this at IIT kanpur because i wanted to understand what's actually underneath, not just how to call the API. nobody my age is doing this. most computer science graduates don't touch it either.
 
 ```
 Python  JavaScript  garbled circuits  MPC protocols  oblivious transfer  network security
@@ -131,7 +149,7 @@ Python  JavaScript  garbled circuits  MPC protocols  oblivious transfer  network
 
 ```
 orca AI              task automation via pure intent. no app. no friction
-argus                real-time AI surveillance. motion intelligence. local processing
+argus                real-time AI surveillance. motion intelligence. local only
 lumenseed AI         LLM-powered healthcare diagnostics. IIT bombay medibot
 quantumedge          ETF signals, options execution, market making. top 1% globally
 cryptovault-MPC      garbled circuits and oblivious transfer. MPC research
@@ -165,21 +183,23 @@ design        Photoshop  Illustrator  Blender  Premiere Pro  After Effects  DaVi
 
 ## the kanpur thing
 
-everyone said the ecosystem wasn't here. no VCs, no coworking spaces, no senior builders around to learn from.
+kanpur is not where anyone expects this to come from.
 
-fine. so i built the ecosystem.
+no startup ecosystem. no VCs dropping by. no senior engineers to grab coffee with and ask how it's supposed to go. no one to tell you what the next step is. you figure it out or you don't.
 
-paxus exists because i decided not to wait for funding to fall from the sky. byteforge exists because the community didn't exist and someone had to make it. the IIT kanpur research happened because i walked into a lab and asked if i could work on something real. the bug bounties happened because i look at software differently and did something useful with that. none of this required being from delhi or bangalore. it required not waiting around.
+byteforge exists because that community didn't exist and pavitra and i decided to stop waiting for someone else to build it. paxus exists because i was not going to sit around until someone gave me permission to start a company. the IIT kanpur research exists because i walked into a lab and asked if i could work on something real and they said yes. the bug bounties exist because i look at software a certain way and decided to do something useful with that instead of just noticing things.
 
-kanpur is the origin story. not the limitation.
+none of it required being from the right city. it required not waiting for the right city to notice you first.
+
+kanpur is the origin. not the excuse.
 
 ---
 
 ## talk to me
 
-if you're building something real, especially from somewhere people don't expect it to come from, reach out.
+building something real from somewhere nobody expects it, reach out.
 
-if you're a researcher, a founder, or someone who thinks the interesting stuff happens outside the obvious places, same thing.
+researcher, founder, or just someone who thinks the actual interesting work happens outside the obvious places, same thing.
 
 [linkedin](https://www.linkedin.com/in/aditya-bhatia-a88529399) &nbsp;·&nbsp; [paxus](https://paxus.in) &nbsp;·&nbsp; [email](mailto:adityabhatia1505@gmail.com) &nbsp;·&nbsp; [work](mailto:adi@paxus.in)
 
