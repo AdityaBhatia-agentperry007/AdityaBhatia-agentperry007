@@ -41,7 +41,7 @@ all of this happened from kanpur while i was in school. i don't really know how 
 |---|---|---|
 | co-founder @ paxus | funded multi-venture tech company | $35k raised at 17. emergent labs and hashed emergent |
 | orca AI | task automation via pure intent | no app. no install. you say it, it happens |
-| argus | real-time AI surveillance | watches, understands, acts. runs entirely locally |
+| argus | personal palantir gotham, built from open source | live tracking, full intelligence layer, runs entirely on my hardware. it actually works |
 | researcher @ IIT kanpur | cryptography, MPC, network security | under prof. adithya vadapalli |
 | bug bounty at openai | reported a real vulnerability | they paid. i was 17 |
 | bug bounty at anthropic | reported a real vulnerability | they paid too. same year |
@@ -79,14 +79,14 @@ TypeScript  Node.js  LLMs  automation pipelines
 
 ### argus
 
-i got genuinely annoyed at how useless most security cameras are. all they do is record. someone breaks in, the camera films it perfectly, and nothing happens. you find out days later when you actually check the footage. that's not a security system, that's just evidence collection.
+palantir gotham costs millions and is locked behind government contracts. i wanted what it does, so i built my own version from open source.
 
-i wanted something that actually watches and does something about what it sees. argus processes video in real time, understands what it's looking at, and triggers alerts automatically when something's wrong. everything runs on your own hardware. nothing goes to any cloud, no subscription, no company sitting in the middle with access to your footage.
+argus is a live intelligence and surveillance platform. it doesn't just record, it tracks. multiple feeds at once, in real time. it understands what it's seeing, correlates it, and gives me a live picture of everything happening across every camera simultaneously. motion, objects, people, events, all processed and surfaced as it happens, not after. the whole thing runs on my own hardware. no cloud, no third party, nothing leaving the network.
 
-i built what i actually wanted to exist. something that pays attention.
+palantir built theirs with hundreds of engineers and government money. i built mine with python and open source tools. it works right now. i can track anything, live.
 
 ```
-Python  OpenCV  FFmpeg  real-time video processing  alert pipelines
+Python  OpenCV  FFmpeg  real-time multi-feed processing  intelligence layer  object tracking
 ```
 
 ---
@@ -137,7 +137,7 @@ Python  JavaScript  garbled circuits  MPC protocols  oblivious transfer  network
 
 ```
 orca AI              task automation via pure intent. no app. no friction
-argus                real-time AI surveillance. motion intelligence. local only
+argus                personal palantir gotham from open source. live tracking, full intelligence layer
 lumenseed AI         LLM-powered healthcare diagnostics. IIT bombay medibot
 quantumedge          ETF signals, options execution, market making. top 1% globally
 cryptovault-MPC      garbled circuits and oblivious transfer. MPC research
@@ -198,3 +198,4 @@ if you're building something from somewhere nobody expects it, or doing research
 built from kanpur. no shortcuts. no excuses.
 
 </div>
+
